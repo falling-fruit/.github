@@ -7,6 +7,14 @@ We are looking for help with **design** and **software development**, but there 
   - Share your thoughts in the GitHub [Discussions](https://github.com/orgs/falling-fruit/discussions)
   - Email info@fallingfruit.org
 
+#### Some suggestions
+
+  - Design a new sticker (see our [old ones](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g))
+  - Produce content for Falling Fruit's social media channels
+  - Design a yard sign (with our [new logo](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g)) that tree owners could use to mark their tree as open or closed for harvesting
+  - Assemble data for a first-draft spatial database of protected lands (see https://docs.google.com/document/d/1ah6jKO9uizBqeBtTVoIXi51gpYEQEyYzzastcMKOp5Y/edit#heading=h.ubvuwkfv2v84)
+  - Help us draft a new forager's code of ethics (see https://github.com/orgs/falling-fruit/discussions/100)
+  - Link Falling Fruit types to the Plants for a Future (https://pfaf.org) database in order to link to PFAF plant profile pages
 
 ### Development roadmap
 
