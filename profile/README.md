@@ -9,6 +9,8 @@ We are looking for help with **design** and **software development**, but there 
 
 #### Some suggestions
 
+  - Tell all your friends about Falling Fruit
+  - Ask your city or university whether they have a tree inventory that can be added to the map
   - Design a new sticker (see our [old ones](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g))
   - Produce content for Falling Fruit's social media channels
   - Design a yard sign (with our [new logo](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g)) that tree owners could use to mark their tree as open or closed for harvesting
