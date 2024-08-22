@@ -11,8 +11,10 @@ We are looking for help with **design** and **software development**, but there 
 
   - Tell all your friends about Falling Fruit
   - Ask your city or university whether they have a tree inventory that can be added to the map
+  - Help translate our interfaces or species common names into your language
   - Design a new sticker (see our [old ones](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g))
   - Produce content for Falling Fruit's social media channels
+  - Run ad campaigns for us using Google Ad(Word)s (they support us with a large monthly budget)
   - Design a yard sign (with our [new logo](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g)) that tree owners could use to mark their tree as open or closed for harvesting
   - Assemble data for a first-draft spatial database of protected lands (see https://docs.google.com/document/d/1ah6jKO9uizBqeBtTVoIXi51gpYEQEyYzzastcMKOp5Y/edit#heading=h.ubvuwkfv2v84)
   - Help us draft a new forager's code of ethics (see https://github.com/orgs/falling-fruit/discussions/100)
@@ -37,10 +39,8 @@ Instead, a new API and mobile-friendly website are being developed as eventual r
 
 There are several major features that we've wanted to develop for a long time but have not found the time to finish.
 
-  - Seasonality filter (described [here](https://docs.google.com/document/d/1ah6jKO9uizBqeBtTVoIXi51gpYEQEyYzzastcMKOp5Y/edit#heading=h.1hnrl61rsxes))
-    - *Summer 2023*: Exploratory efforts to build predictive fruit ripeness models from historic climate data and phenology observations are underway at [dfg-seasons](https://github.com/falling-fruit/dfg-seasons).
-  - Tree inventories – We've identified hundreds more open tree inventories to add to our map! If only we had the time to deal with all that data...
-    - *Summer 2023*: Improvements are being made to our data archiving and processing pipeline at [dfg-trees](https://github.com/falling-fruit/dfg-trees).
+  - Seasonality filter (described [here](https://docs.google.com/document/d/1ah6jKO9uizBqeBtTVoIXi51gpYEQEyYzzastcMKOp5Y/edit#heading=h.1hnrl61rsxes)). A Develop for Good team made progress on this goal in summer 2023. They built predictive fruit ripeness models from historic climate data and phenology observations: [dfg-seasons](https://github.com/falling-fruit/dfg-seasons).
+  - Tree inventories. We have identified almost one thousand tree inventories to add to our map! If only we had the time to deal with all that data. See [opentrees-harvester](https://github.com/ezwelty/opentrees-harvester); active development is currently on [this branch](https://github.com/falling-fruit/dfg-trees/tree/merge-in-archiver-and-census).
   - Interactive location types (described [here](https://docs.google.com/document/d/1ah6jKO9uizBqeBtTVoIXi51gpYEQEyYzzastcMKOp5Y/edit#heading=h.cbt21puyoh05))
   - Protected lands / foraging regulations map layer (described [here](https://docs.google.com/document/d/1ah6jKO9uizBqeBtTVoIXi51gpYEQEyYzzastcMKOp5Y/edit#heading=h.ubvuwkfv2v84)) – This is a frequent request from land agencies and a political must in the long term.
   
