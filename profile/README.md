@@ -3,7 +3,7 @@
 We are looking for help with **design** and **software development**, but there are many other ways to contribute (**translate**, wrangle **data**, **recruit** others, write **newsletter** content). Ideas to get started:
 
   - Open an issue, weigh in on issues, or contribute a pull request in one of our GitHub [repositories](https://github.com/orgs/falling-fruit/repositories) or [projects](https://github.com/orgs/falling-fruit/projects)
-  - Join our [Slack workspace](https://join.slack.com/t/fallingfruit/shared_invite/zt-1oh1paonq-XJ7dBHPapv6uuBTc93~4UA)
+  - Join our [Slack workspace](https://join.slack.com/t/fallingfruit/shared_invite/zt-1oh1paonq-XJ7dBHPapv6uuBTc93~4UA) and maybe even one of our ~monthly community calls
   - Share your thoughts in the GitHub [Discussions](https://github.com/orgs/falling-fruit/discussions)
   - Email info@fallingfruit.org
 
