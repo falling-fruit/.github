@@ -9,15 +9,26 @@ We are looking for help with **design** and **software development**, but there 
 
 #### Some suggestions
 
+##### Communication
+
   - Tell all your friends about Falling Fruit
-  - Ask your city or university whether they have a tree inventory that can be added to the map
-  - Help translate our interfaces or species common names into your language
-  - Design a new sticker (see our [old ones](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g))
-  - Produce content for Falling Fruit's social media channels
-  - Run ad campaigns for us using Google Ad(Word)s (they support us with a large monthly budget)
-  - Design a yard sign (with our [new logo](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g)) that tree owners could use to mark their tree as open or closed for harvesting
-  - Assemble data for a first-draft spatial database of protected lands (see https://docs.google.com/document/d/1ah6jKO9uizBqeBtTVoIXi51gpYEQEyYzzastcMKOp5Y/edit#heading=h.ubvuwkfv2v84)
+  - Help translate our interfaces or species common names into your language (`#translation` on [Slack](https://join.slack.com/t/fallingfruit/shared_invite/zt-1oh1paonq-XJ7dBHPapv6uuBTc93~4UA))
   - Help us draft a new forager's code of ethics (see https://github.com/orgs/falling-fruit/discussions/100)
+  - Run ad campaigns for us using Google Ad(Word)s (they support us with a large monthly budget)
+  - Produce content for Falling Fruit's social media channels
+  - Produce content for our upcoming newsletter (`#newsletter` on [Slack](https://join.slack.com/t/fallingfruit/shared_invite/zt-1oh1paonq-XJ7dBHPapv6uuBTc93~4UA))
+
+##### Design
+
+  - Design a template for our upcoming newsletter (`#newsletter` on [Slack](https://join.slack.com/t/fallingfruit/shared_invite/zt-1oh1paonq-XJ7dBHPapv6uuBTc93~4UA))
+  - Design a yard sign (with our [new logo](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g)) that tree owners could use to mark their tree as open or closed for harvesting
+  - Design a new sticker (see our [old ones](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g))
+
+##### Data
+
+  - Ask your city or university whether they have a tree inventory that can be added to the map (`#datasets` on [Slack](https://join.slack.com/t/fallingfruit/shared_invite/zt-1oh1paonq-XJ7dBHPapv6uuBTc93~4UA))  
+  - Assemble data for a first-draft spatial database of protected lands (see https://docs.google.com/document/d/1ah6jKO9uizBqeBtTVoIXi51gpYEQEyYzzastcMKOp5Y/edit#heading=h.ubvuwkfv2v84)
+  - Submit a harvesting calendar for your region explicitly tied to Falling Fruit types
   - Link Falling Fruit types to the Plants for a Future (https://pfaf.org) database in order to link to PFAF plant profile pages
 
 ### Development roadmap
