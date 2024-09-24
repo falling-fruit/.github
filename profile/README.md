@@ -51,7 +51,7 @@ Instead, a new API and mobile-friendly website are being developed as eventual r
 There are several major features that we've wanted to develop for a long time but have not found the time to finish.
 
   - Seasonality filter (described [here](https://docs.google.com/document/d/1ah6jKO9uizBqeBtTVoIXi51gpYEQEyYzzastcMKOp5Y/edit#heading=h.1hnrl61rsxes)). A Develop for Good team made progress on this goal in summer 2023. They built predictive fruit ripeness models from historic climate data and phenology observations: [dfg-seasons](https://github.com/falling-fruit/dfg-seasons).
-  - Tree inventories. We have identified almost one thousand tree inventories to add to our map! If only we had the time to deal with all that data. See [opentrees-harvester](https://github.com/ezwelty/opentrees-harvester); active development is currently on [this branch](https://github.com/falling-fruit/dfg-trees/tree/merge-in-archiver-and-census).
+  - Tree inventories. We have identified almost one thousand tree inventories to add to our map! If only we had the time to deal with all that data. See [opentrees-harvester](https://github.com/ezwelty/opentrees-harvester).
   - Interactive location types (described [here](https://docs.google.com/document/d/1ah6jKO9uizBqeBtTVoIXi51gpYEQEyYzzastcMKOp5Y/edit#heading=h.cbt21puyoh05))
   - Protected lands / foraging regulations map layer (described [here](https://docs.google.com/document/d/1ah6jKO9uizBqeBtTVoIXi51gpYEQEyYzzastcMKOp5Y/edit#heading=h.ubvuwkfv2v84)) – This is a frequent request from land agencies and a political must in the long term.
   
