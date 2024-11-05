@@ -3,7 +3,7 @@
 We are looking for help with **design** and **software development**, but there are many other ways to contribute (**translate**, wrangle **data**, **recruit** others, write **newsletter** content). Ideas to get started:
 
   - Open an issue, weigh in on issues, or contribute a pull request in one of our GitHub [repositories](https://github.com/orgs/falling-fruit/repositories) or [projects](https://github.com/orgs/falling-fruit/projects)
-  - Join our [Slack workspace](https://join.slack.com/t/fallingfruit/shared_invite/zt-1oh1paonq-XJ7dBHPapv6uuBTc93~4UA) and maybe even one of our ~monthly community calls
+  - Join our [Slack workspace](https://fallingfruit.org/join-slack) and maybe even one of our ~monthly community calls
   - Share your thoughts in the GitHub [Discussions](https://github.com/orgs/falling-fruit/discussions)
   - Email info@fallingfruit.org
 
@@ -12,15 +12,16 @@ We are looking for help with **design** and **software development**, but there 
 ##### Communication
 
   - Tell all your friends about Falling Fruit
-  - Help translate our interfaces or species common names into your language (`#translation` on [Slack](https://join.slack.com/t/fallingfruit/shared_invite/zt-1oh1paonq-XJ7dBHPapv6uuBTc93~4UA))
+  - Help translate our interfaces or species common names into your language (`#translation` on [Slack](https://fallingfruit.org/join-slack))
+  - Help resolve user-submitted problem reports or curate user-submitted location types
   - Help us draft a new forager's code of ethics (see https://github.com/orgs/falling-fruit/discussions/100)
   - Run ad campaigns for us using Google Ad(Word)s (they support us with a large monthly budget)
   - Produce content for Falling Fruit's social media channels
-  - Produce content for our upcoming newsletter (`#newsletter` on [Slack](https://join.slack.com/t/fallingfruit/shared_invite/zt-1oh1paonq-XJ7dBHPapv6uuBTc93~4UA))
+  - Produce content for our upcoming newsletter (`#newsletter` on [Slack](https://fallingfruit.org/join-slack))
 
 ##### Design
 
-  - Design a template for our upcoming newsletter (`#newsletter` on [Slack](https://join.slack.com/t/fallingfruit/shared_invite/zt-1oh1paonq-XJ7dBHPapv6uuBTc93~4UA))
+  - Design a template for our upcoming newsletter (`#newsletter` on [Slack](https://fallingfruit.org/join-slack))
   - Design a yard sign (with our [new logo](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g)) that tree owners could use to mark their tree as open or closed for harvesting
   - Design a new sticker (see our [old ones](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g))
 
