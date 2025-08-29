@@ -21,9 +21,9 @@ We are looking for help with **design** and **software development**, but there 
 
 ##### Design
 
-  - Design a template for our upcoming newsletter (`#newsletter` on [Slack](https://fallingfruit.org/join-slack))
   - Design a yard sign (with our [new logo](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g)) that tree owners could use to mark their tree as open or closed for harvesting
-  - Design a new sticker (see our [old ones](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g))
+  - Tackle a GitHub issue that needs design help (labeled with `design` at [falling-fruit-web/issues](https://github.com/falling-fruit/falling-fruit-web/issues?q=is%3Aissue%20state%3Aopen%20label%3Adesign))
+  <!--- Design a new sticker (see our [old ones](https://drive.google.com/drive/u/0/folders/18fKEHaOFF8cJrK0H0fNMK2iQzX9XfV0g))-->
 
 ##### Data
 
